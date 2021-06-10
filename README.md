@@ -20,4 +20,4 @@ curve_graph.py      画曲线图
 /config/config.ini  通过修改参数实现曲线图的自定义设置
 
 ## 联系方式
-电子邮件: 17731202175@163.com
+电子邮件: lemon8peach@gmail.com
