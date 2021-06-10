@@ -14,10 +14,10 @@ python3
 matplotlib, pandas, numpy
 
 ## 文件说明
-Bezire.py           计算多个点之间的贝塞尔曲线以及其他一些坐标变换的相关函数
-get_parameter.py    读取config.ini文件中的参数
-curve_graph.py      画曲线图
-/config/config.ini  通过修改参数实现曲线图的自定义设置
+Bezire.py           计算多个点之间的贝塞尔曲线以及其他一些坐标变换的相关函数\<br>
+get_parameter.py    读取config.ini文件中的参数\<br>
+curve_graph.py      画曲线图\<br>
+/config/config.ini  通过修改参数实现曲线图的自定义设置\<br>
 
 ## 联系方式
 电子邮件: lemon8peach@gmail.com
