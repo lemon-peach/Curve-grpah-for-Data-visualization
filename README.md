@@ -2,7 +2,8 @@
 ## 介绍
 <br>此项目为曲线图形式的动态数据可视化工具，能够很好的显示数据随时间的变化趋势，支持多种自定义设置
 <br>如果你只想使用此工具建议下载可执行程序文件
-<br>exe文件下载链接：https://pan.baidu.com/s/1NUuamT9FItdnaBg6uC8N9w 提取码：6fuq 
+<br>exe文件下载链接：https://pan.baidu.com/s/1fRi1Nz5O6xqqft97lnTsgw 提取码：w6eh 
+
 ## 使用
 运行curve_graph.py，选择存储数据的csv文件，程序运行完毕后结果会保存在files文件夹下
 
